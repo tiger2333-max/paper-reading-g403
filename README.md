@@ -1,8 +1,8 @@
 # paper-reading-G403
 
-speaking date:2021/09/24
+speaking date: 2021/09/24
 
-speaker:Chen Junwen
+speaker: Chen Junwen
 
 paperlist:
 
