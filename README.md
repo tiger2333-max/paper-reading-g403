@@ -32,3 +32,15 @@ Paperlist:
 
 2.Square Attack: a query-efficient black-box adversarial attack via random search(Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion, and Matthias Hein, ECCV 2020)
 
+
+Speaking date: 2021/08/25
+
+Speaker:Pu Bangzheng
+
+Paperlist:
+
+1.IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking,Shuai Jia,Yibing Song,Chao Ma,Xiaokang Yang,CVPR2021
+
+2.Adversarial Imaging Pipelines,Buu Phan,Fahim Mannan,Felix Heide,CVPR2021
+
+
