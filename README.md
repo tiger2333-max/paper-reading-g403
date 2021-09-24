@@ -1,5 +1,5 @@
 # paper-reading-g403
 
-
-
-sdasda
+reading date:2021/09/24
+speaker:Chen Junwen
+paperlist:
